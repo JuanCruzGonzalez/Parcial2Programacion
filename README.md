@@ -43,8 +43,9 @@ if resultado:
     print("¡Es un mutante!")
 else:
     print("No es un mutante.")
+```
 
-## Cómo correrlo
+# Cómo correrlo
 
 Primero clonamos el repositorio con: git clone https://github.com/tu-usuario/tu-repositorio.git
 
